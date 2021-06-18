@@ -1,0 +1,11 @@
+Leetcode Question 1683
+
+Explanation 
+Select tweet ID from the twwets table
+Chech the length of the tweets that are greater than 15 and return it
+
+
+
+SELECT tweet_id 
+FROM tweets
+WHERE length(content) > 15
