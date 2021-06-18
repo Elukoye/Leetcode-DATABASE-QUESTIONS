@@ -6,7 +6,7 @@ Group all the customers according to their customer number
 Order the resulting query in descending order such that the last customer is the first.
 This places the customer with the most orders on top
 Use Limit to select the top most customer 
-
+Reference :https://bluewliwa.gitbooks.io/mianjing/content/leetcode-sql/customer-placing-the-largest-number-of-order586.html
 
 
 
